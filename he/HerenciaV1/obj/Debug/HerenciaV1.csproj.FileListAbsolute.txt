@@ -1,0 +1,5 @@
+C:\Users\Licenciaturas\Desktop\he\HerenciaV1\obj\Debug\HerenciaV1.csproj.AssemblyReference.cache
+C:\Users\Licenciaturas\Desktop\he\HerenciaV1\obj\Debug\HerenciaV1.Form1.resources
+C:\Users\Licenciaturas\Desktop\he\HerenciaV1\obj\Debug\HerenciaV1.Properties.Resources.resources
+C:\Users\Licenciaturas\Desktop\he\HerenciaV1\obj\Debug\HerenciaV1.csproj.GenerateResource.cache
+C:\Users\Licenciaturas\Desktop\he\HerenciaV1\obj\Debug\HerenciaV1.csproj.CoreCompileInputs.cache
