@@ -14,11 +14,11 @@ namespace HerenciaV1
         }
         public override float area()
         {
-            return 3.1416F * (2 * Lado1);
+            return 4*3.1416F * (2 * Lado1);
         }
         public override float perimetro()
         {
-            return 2 * 3.1416F * Lado1;
+            throw new NotImplementedException();
         }
         public override float volumen()
         {

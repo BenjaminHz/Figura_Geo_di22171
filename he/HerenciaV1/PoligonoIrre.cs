@@ -8,5 +8,6 @@ namespace HerenciaV1
 {
     class PoligonoIrre
     {
+
     }
 }
